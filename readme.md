@@ -1,4 +1,4 @@
-# Code for ECCV 2022 submission number 6963
+# Code for ECCV 2022 paper 3D Shape Sequence of Human Comparison and Classification  using Current and Varifolds
 
 ## Generating inner products over a motion (gram matrices).
 The code to generate gram hankel matrices can be found in gram_varifolds_motion.py. 
@@ -89,3 +89,5 @@ Once downloaded, simply unzip all motion folders in folders, organized as follow
 where motion_id is the number of the motion when downloading
 - Dyna dataset: download the dataset here http://dyna.is.tue.mpg.de/. Please put the 2 h5 files 
 (dyna_dataset_f.h5, dyna_dataset_m.h5) in the same folder
+
+# Citation
