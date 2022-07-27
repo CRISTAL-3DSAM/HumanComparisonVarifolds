@@ -91,3 +91,13 @@ where motion_id is the number of the motion when downloading
 (dyna_dataset_f.h5, dyna_dataset_m.h5) in the same folder
 
 # Citation
+If you're using our code in your work, please cite us using:
+
+@inproceedings{Pierson2022ECCV,
+      author    = {Emery, Pierson and Mohamed, Daoudi and Sylvain, Arguillère},
+      title     = {3D Shape Sequence of Human Comparison and Classification using Current and Varifolds},
+      booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+      year      = {2022}
+  }
+
+
